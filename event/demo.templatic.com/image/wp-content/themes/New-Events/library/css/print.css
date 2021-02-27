@@ -1,0 +1,138 @@
+#header,
+#top_strip,
+.breadcrumb,
+#sidebar,
+#footer,
+#bottom,
+#comments,
+#respond,
+.realated_post,
+#main_navi,
+.tabber,
+.event_social_media,
+.search_location,
+.b_contact,
+.b_register,
+.event_bookmark,
+.pos_navigation,
+.i_addtocalendar,
+#detail_google_map_id,
+#pikachoose,
+#detail_page_slider,
+#detail_google_map_id,
+.i_claim,
+.social-block,
+.register_msg,
+.views_counter {
+    display: none !important;
+}
+
+body,
+#main,
+#content,
+.column,
+#articletext,
+#footer,
+img,
+.main_photo,
+.product_details,
+.btn_twitter a,
+.btn_facebook a,
+.header-wrapper {
+    float: none !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+.subscribe_form .btn_submit,
+a.b_sbumit,
+.b_search_event,
+.subscribe_form .btn_submitm .login_form_l .b_signin_n,
+.b_signin,
+.b_registernow,
+#sidebar .widget a.b_twitter,
+a.b_getdirection,
+.button,
+input[type="submit"],
+input[type="button"],
+a.b_contact,
+#show_recurring span,
+#hide_recurring span,
+.show_rec_ev span,
+#edit_fb_fields,
+#hide_fb_fields,
+.event-submit-page .b_submit {
+    padding: 0 !important;
+}
+
+.google_map {
+    background: none !important;
+    border: none !important;
+}
+
+#content p.bottom_line span.i_category,
+#content p.bottom_line span.i_tag {
+    background: none !important;
+}
+
+.register_msg {
+    background: none !important;
+}
+
+body,
+#wrapper,
+#content .register_msg {
+    background: none !important;
+}
+
+.event-block {
+    margin-top: 35px;
+}
+
+.event-block .event-innerblock {
+    margin-bottom: 35px;
+}
+
+#content .register_msg {
+    border: none !important;
+}
+
+a:after {
+    content: " ("attr(href) ") ";
+    font-size: 0.8em;
+    font-weight: normal;
+}
+
+*,
+*:before,
+*:after {
+    color: #000 !important;
+    font-family: Arial !important;
+    line-height: 1.3 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 10px !important;
+    padding-bottom: 0 !important;
+    border: none !important;
+    line-height: 1.3 !important;
+    text-transform: capitalize !important;
+    font-weight: bold !important;
+}
+
+.organized_content strong.float,
+#content .event_information .date_info p span {
+    font-weight: bold !important;
+    margin-bottom: 15px !important;
+}
+
+.event_information {
+    margin-bottom: 0 !important;
+}

@@ -1,0 +1,1102 @@
+body {
+    background: #f1f1f1;
+    color: #555555;
+}
+
+.header-wrapper,
+.footer-wrapper {
+    background-image: url("1-default/header-pattern.png");
+}
+
+.more a,
+#top_strip_in .sub-menu li a {
+    font-size: 14px;
+}
+
+hr {
+    color: #fffdea;
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.hr2 {
+    color: #fffdea;
+    border: none;
+}
+
+#top_strip,
+#top_strip_in .sub-menu {
+    background: #061622;
+}
+
+.content_sub_sidebar_right {
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.login_form_l .b_signin_n,
+.b_signin,
+.b_registernow,
+.b_search_event,
+.subscribe_form .btn_submit,
+#sidebar .widget a.b_twitter,
+a.b_getdirection,
+.button,
+input[type="submit"],
+input#submit,
+#show_recurring span,
+#hide_recurring span,
+.show_rec_ev span,
+#edit_fb_fields,
+#hide_fb_fields,
+.event-submit-page .b_submit,
+.b_cancel {
+    border: none;
+}
+
+.b_search_event:hover,
+.subscribe_form .btn_submit:hover,
+.login_form_l .b_signin_n:hover,
+.b_signin:hover,
+.b_registernow:hover,
+#sidebar .widget a.b_twitter:hover,
+a.b_getdirection:hover,
+.button:hover,
+input[type="submit"]:hover,
+input#submit:hover,
+#show_recurring span:hover,
+#hide_recurring span:hover,
+.show_rec_ev span:hover,
+#edit_fb_fields:hover,
+#hide_fb_fields:hover,
+.event-submit-page .b_submit:hover,
+.b_cancel:hover,
+.pagination a:hover {
+    background: #1e384c;
+}
+
+.b_review:hover,
+a.b_contact:hover,
+.validate-coupon-code-wrapper .validate_btn:hover,
+.b_delete:hover,
+.event_social_media .sharethis,
+.event_social_media .sharethis:hover,
+.event_social_media .b_sendtofriend:hover {
+    background-color: #0097d3;
+}
+
+#header .blog-title a {
+    color: #285170;
+}
+
+#top_strip_in ul li a,
+#top_strip_in ul.children li>a:before,
+#header .blog-description {
+    color: #67849a;
+}
+
+#header p.general_statics {
+    color: #67849a;
+}
+
+a.b_sbumit {
+    background-color: #ebb33a;
+}
+
+a:hover.b_sbumit {
+    background-color: #dfa833;
+}
+
+.h_featured,
+.featured_tag {
+    background: #ebb33a;
+}
+
+.h_featured:before,
+.featured_tag:before {
+    border-top: 8px solid #bb891f;
+}
+
+#content .category_grid_view li {
+    background: none;
+}
+
+#content .category_grid_view li .read_more {
+    color: #999;
+}
+
+#content .category_grid_view li .ping a {
+    color: #8A8A8A;
+}
+
+#content .category_grid_view li .ping a:hover {
+    color: #000;
+}
+
+.event_list_featured {
+    background: #fbf6e0;
+}
+
+.tabber .category {
+    background: #fff none repeat scroll 0 0;
+}
+
+#content .realated_post li .video_main {
+    border: 1px solid #C9C9C9;
+}
+
+#content .twocolumns .listingview li {
+    background: none;
+    position: relative;
+}
+
+#content .twocolumns .listingview li h3 {
+    background: none;
+    border-bottom: none;
+}
+
+#content .category_list_view li {
+    background: none;
+}
+
+#content .category_list_view li .content a.pcomments {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#content .category_list_view li a:hover.ping {
+    color: #009ddc;
+}
+
+#content .category_list_view li .content .rating {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#content .category_list_view li:last-child {
+    border-bottom: none;
+}
+
+.sidebar_map {
+    border: 1px solid #e2dfdf;
+}
+
+#sidebar .paddress,
+#sidebar .ptiming,
+#sidebar .pcontact,
+#sidebar .gmnoprint {
+    color: #777;
+}
+
+#recurring_events ul li.even {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+
+#content .sort_by li {
+    background: none;
+    color: #777;
+}
+
+#content .sort_by li a {
+    color: #868686;
+}
+
+#content ol li {
+    background: none;
+}
+
+.form_row label span {
+    color: #D70000;
+}
+
+.required {
+    color: #C92929;
+}
+
+.new_user_reg {
+    border: 1px solid #eee2a7;
+}
+
+#content .widget h3,
+#comments_wrap h3,
+#respond h3,
+#sidebar h3,
+#content .twocolumns h3.twocolumns-main-heading,
+#content h3,
+#content .realated_post h3,
+.simplemodal-container h3,
+.event-submit-page .form_title {
+    border-bottom: 2px solid rgba(0, 157, 220, 0.5);
+}
+
+#content .category_list_view li h3,
+#content .event_list h3 {
+    border-bottom: none;
+}
+
+#content span.comm-reply a:before {
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.by {
+    color: #858585;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.post_bottom .category a,
+.date,
+.post_bottom .tags a {
+    color: #999;
+}
+
+.post_left a {
+    color: #000;
+}
+
+.b_text {
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #858585;
+}
+
+.bookmark {
+    border-top: 2px solid #ebebeb;
+}
+
+.video_main {
+    border: 2px solid #ccc;
+}
+
+code {
+    background: #ccc;
+}
+
+blockquote cite {
+    color: #666;
+}
+
+blockquote a:hover {
+    color: #000;
+}
+
+.tabber {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+#sidebar h3 span.more a:hover,
+#content h3 span.more a:hover {
+    color: #000;
+}
+
+#sidebar li:last-child {
+    border-bottom: none;
+}
+
+#calendar_wrap caption {
+    border-top: 1px solid #1e3c53;
+    border-bottom: 1px solid #1e3c53;
+    background: #1e3c53;
+}
+
+#wp-calendar td {
+    background: #dbe8f0;
+    color: #1e3c53;
+    border: 1px solid #fff;
+}
+
+#wp-calendar th {
+    background: #588aaf;
+}
+
+.subscribe .field {
+    color: #777;
+}
+
+#sidebar .bookmark h3 {
+    background: none;
+}
+
+.bookmark {
+    background: #ededed;
+}
+
+.i_rss {
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+
+.register_msg {
+    background: #fbf6df;
+    border: 1px solid #f5eab6;
+}
+
+a:hover.b_register {
+    background: #082536;
+}
+
+#content .twocolumns .listingview li.event_list_featured,
+#content li.event_list_featured {
+    background: none repeat scroll 0 0 #fbf6df;
+    position: relative;
+}
+
+.event_bookmark {
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+}
+
+.google_map {
+    background: #f5f5f5;
+}
+
+.advt4widget {
+    border: 1px solid #d0d0d0;
+}
+
+#sidebar .recent_comments li {
+    background: none;
+}
+
+#sidebar .recent_comments li .img_available {
+    background: #eee;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#sidebar .recent_comments li img.thumb {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#sidebar .recent_comments li span.review {
+    color: #777;
+}
+
+.we_recommend_in .nivoSlider a.nivo-imageLink {
+    border: 0;
+}
+
+.we_recommend_in .nivo-caption {
+    background: #000;
+}
+
+.header_right ul li.welcome {
+    color: #B3DAFA;
+}
+
+.header_right ul li:last-child a {
+    background: none;
+}
+
+.header_right li:hover ul li a {
+    border-left: none;
+    border-right: none;
+}
+
+.header_right ul li.current_page_item ul li a,
+.header_right ul li.current_page_parent ul li a,
+.header_right ul li ul li a,
+.header_right ul li ul li:last-child a {
+    background: #00b3dc;
+}
+
+.header_right ul li.current_page_item ul li a:hover,
+.header_right ul li.current_page_parent ul li.current_page_item a,
+.header_right ul li.current_page_parent ul li a:hover,
+.header_right ul li ul li a:hover,
+.header_right ul li ul.sub-menu li a,
+.header_right ul li ul.sub-menu ul.sub-menu li a,
+.header_right ul li.current_page_parent ul li.current_page_item ul li a:hover {
+    background: #0092b4;
+}
+
+.header_right ul li ul li.current_page_parent a {
+    background: #6d6d6d;
+}
+
+.header_right ul li ul li.current_page_parent ul li.current_page_item a {
+    background: #a0a0a0 !important;
+}
+
+.header_right ul li ul li.current_page_parent ul li a,
+.header_right ul li ul li.current_page_item ul li a {
+    background: #a0a0a0 !important;
+}
+
+.header_right ul li ul li.current_page_item ul li ul li a:hover {
+    background: #6d6d6d !important;
+}
+
+.header_right ul ul {
+    width: 190px;
+    margin-top: 0px;
+    border: 1px solid #c6c6c6;
+    background: #0a91b0;
+}
+
+#main_navi li:hover a {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+#main_navi li:hover ul li a {
+    background: #326b99;
+    border-left: none;
+    border-right: none;
+}
+
+#main_navi ul li.current-cat a,
+#main_navi ul li.current-cat-parent a,
+#main_navi ul li.current_page_item a,
+li.current-menu-item a,
+#main_navi ul li.current_page_parent a {
+    position: relative;
+}
+
+#main_navi ul li.current-cat ul li a,
+#main_navi ul li.current_page_parent ul li a,
+#main_navi ul li ul li a {
+    background: #1c4a6d;
+}
+
+#main_navi ul li ul li.current-cat-parent a {
+    background: #b9c3ce;
+}
+
+#main_navi ul li ul li.current-cat-parent ul li.current-cat a {
+    background: #b9c3ce !important;
+}
+
+#main_navi ul li ul li.current-cat-parent ul li a,
+#main_navi ul li ul li.current-cat ul li a {
+    background: #aab0b7 !important;
+}
+
+#main_navi ul li ul li.current-cat ul li ul li a:hover {
+    background: #b9c3ce !important;
+}
+
+#main_navi ul ul {
+    border-right: none;
+    border-left: none;
+}
+
+#top_strip_in li:hover ul li a {
+    color: rgba(255, 255, 255, 0.4);
+    border-left: none;
+    border-right: none;
+}
+
+#top_strip_in ul ul {
+    width: 190px;
+    margin-top: -2px;
+}
+
+#sidebar #twitter h3 a:hover {
+    color: #eee;
+}
+
+.twitter_post #twitter li {
+    background: none !important;
+}
+
+.arclist ul li {
+    background: none
+}
+
+.arclist ul li ul {
+    border-bottom: 0;
+}
+
+.arclist ul li ul li {
+    border-bottom: 0;
+}
+
+#comments .comment {
+    background: none;
+}
+
+#comments .comment .meta-left {
+    color: #aaaaaa
+}
+
+#comments .comment .text-right p a {
+    text-decoration: none;
+}
+
+#simplemodal-overlay {
+    background-color: #000;
+}
+
+.simplemodal-container .simplemodal-wrap {
+    border-radius: 2px;
+}
+
+table.calendar_widget td.days {
+    background: #142736 none repeat scroll 0 0;
+    border-bottom: 1px solid #fff;
+    color: rgba(255, 255, 255, 0.4);
+}
+
+table.calendar_widget tr {
+    background: #fff none repeat scroll 0 0;
+}
+
+#calendarDiv {
+    border-radius: 0 0 2px 2px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#calendarDiv .selectBox {
+    border: 1px solid #E9F1F6;
+    color: #ffffff;
+}
+
+#calendarDiv .selectBoxOver {
+    background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 2px;
+}
+
+#calendarDiv .activeDay {
+    color: #ffffff;
+}
+
+#calendarDiv .todaysDate {
+    background: #E9F1F6;
+}
+
+#calendarDiv .monthYearPicker {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#calendarDiv .monthYearActive {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.b_search_properties a:hover {
+    background-position: 0 -31px;
+    color: #f0f0f0;
+}
+
+#footer p a:hover {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+#comments .comment .text-right p a.comment-reply-link {
+    border: 1px solid #cdcdcd;
+    color: #666;
+}
+
+#searchform .b_search {
+    border: none;
+    background: url("../images/sidebar-search-icon.png") no-repeat left top;
+}
+
+blockquote {
+    background: url(1-default/quote.png) no-repeat;
+}
+
+/* ==========================================================================
+   Body Font Color
+   ========================================================================== */
+
+body,
+a:hover,
+.posts h2 a:hover,
+.posts p a,
+.map-info-box-wrapper .link-style1 a:hover,
+.archive-spot ul li a,
+#content .category_list_view li .author_link a,
+#content .twocolumns .listingview li p,
+#content .twocolumns .listingview li p span,
+#content .category_list_view li p.address span,
+#content .category_list_view li p.timing span,
+#content .category_list_view li p.bottom span a,
+#content .category_list_view li p.bottom a,
+#content .category_list_view li p.bottom a.read_more:hover,
+.breadcrumb,
+.breadcrumb a:hover,
+.message_note,
+#content p.note,
+#content .post_left a:hover,
+#content .post_right a:hover,
+#content .event_information div.i_addtocalendar,
+#content .event_information div.i_addtocalendar ul li.i_calendar,
+#content .event_information div.i_addtocalendar ul li.i_google,
+#content .event_information div.i_addtocalendar ul li.i_yahoo,
+#content .tab li a.i_print,
+a.i_claim,
+#content .event_information div.i_addtocalendar a,
+#content .event_information div.i_addtocalendar ul li.i_calendar a,
+#content .event_information div.i_addtocalendar ul li.i_google a,
+#content .event_information div.i_addtocalendar ul li.i_yahoo a,
+#content .tab li a.i_print a,
+a.i_claim a,
+#sidebar li,
+#sidebar .widget li a,
+.event_search .row .textfield,
+.event_search .row .select,
+#sidebar .recent_comments li a.comment_excerpt,
+#comments .comment .authcomment p,
+.cancel-comment-reply a,
+#waitMessage,
+table.calendar_widget tr,
+table.calendar_widget td.date_n,
+#calendarDiv {
+    color: #555555;
+}
+
+/* ==========================================================================
+   Blue Color
+   ========================================================================== */
+
+.map-info-box-wrapper h6 a:hover,
+.posts h2 a,
+.single-post h1 a:hover,
+.posts p a:hover,
+a,
+.archive-spot ul li a:hover,
+#content .category_list_view li .author_link a:hover,
+#header p.general_statics span,
+#content .category_grid_view li .read_more:hover,
+#content .twocolumns .listingview li h3 a:hover,
+#content .category_list_view li p.bottom span a:hover,
+#content .category_list_view li p.bottom a:hover,
+#content .category_list_view li p.bottom a.read_more,
+.breadcrumb a,
+#content .widget h3,
+#comments_wrap h3,
+#respond h3,
+#sidebar h3,
+#content .twocolumns h3.twocolumns-main-heading,
+#content h3,
+#content .realated_post h3,
+.simplemodal-container h3,
+.event-submit-page .form_title,
+#content .category_list_view li h3 a:hover,
+#content .event_list h3 a:hover,
+#content span.comm-reply a:hover:before,
+#content .event_information div.i_addtocalendar:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_calendar:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_google:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_yahoo:hover:before,
+#content .tab li a.i_print:hover:before,
+a.i_claim:hover:before,
+#content .event_information div.i_addtocalendar a:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_calendar a:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_google a:hover:before,
+#content .event_information div.i_addtocalendar ul li.i_yahoo a:hover:before,
+#content .tab li a.i_print a:hover:before,
+a.i_claim a:hover:before,
+#content .event_information div.i_addtocalendar:hover,
+#content .event_information div.i_addtocalendar ul li.i_calendar:hover,
+#content .event_information div.i_addtocalendar ul li.i_google:hover,
+#content .event_information div.i_addtocalendar ul li.i_yahoo:hover,
+#content .tab li a.i_print:hover,
+a.i_claim:hover,
+#content .event_information div.i_addtocalendar a:hover,
+#content .event_information div.i_addtocalendar ul li.i_calendar a:hover,
+#content .event_information div.i_addtocalendar ul li.i_google a:hover,
+#content .event_information div.i_addtocalendar ul li.i_yahoo a:hover,
+#content .tab li a.i_print a:hover,
+a.i_claim a:hover,
+#content .pos_navigation .post_left a:hover,
+#content .pos_navigation .post_right a:hover,
+#content .pos_navigation .post_left a:hover:before,
+#content .pos_navigation .post_right a:hover:before,
+#content .tab li a:hover,
+#content .tab li.active a,
+#sidebar .widget a,
+#sidebar .widget li a:hover,
+#sidebar .recent_comments li a:hover,
+#comments .comment .text-right p a:hover,
+.cancel-comment-reply a:hover,
+#sidebar .widget table.calendar_widget td.date_n a.event_title,
+#footer p a {
+    color: #009ddc;
+}
+
+/* ==========================================================================
+   Background Blue Color
+   ========================================================================== */
+
+.b_review,
+a.b_contact,
+.validate-coupon-code-wrapper .validate_btn,
+.b_delete,
+#sidebar .event_search .calendar_link:hover:before,
+#main_navi .sub-menu,
+.event_social_media .b_sendtofriend,
+.event-submit-page .upload {
+    background-color: #009ddc;
+}
+
+#main_navi,
+.pagination .on,
+#main_navi ul li.current-cat ul li a:hover,
+#main_navi ul li.current-cat-parent ul li.current-cat a,
+#main_navi ul li.current-cat-parent ul li a:hover,
+#main_navi ul li ul li a:hover,
+#main_navi ul li ul.sub-menu li a,
+#main_navi ul li ul.sub-menu ul.sub-menu li a,
+#main_navi ul li.current-cat-parent ul li.current-cat ul li a:hover,
+.simplemodal-container a.modalCloseImg:hover,
+table.calendar td.title,
+#calendarDiv .topBar,
+.mega-menu .nav_bg,
+.mega-menu ul.mega li .sub-container,
+#menu-secondary-title {
+    background: #009ddc;
+}
+
+/* ==========================================================================
+   Border Blue Color
+   ========================================================================== */
+
+.form_row .textfield:focus,
+.form_row .textarea:focus,
+.form_row select:focus,
+#advancedsearch .form_row .adv_input:focus {
+    border: 1px solid #009ddc;
+}
+
+.flickr img:hover {
+    border-color: #009ddc
+}
+
+/* ==========================================================================
+   Heading Color
+   ========================================================================== */
+
+.map-info-box-wrapper h6 a,
+.single-post h1 a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#wrapper h1,
+#header .blog-title a:hover,
+#content .twocolumns .listingview li h3 a,
+#content .category_list_view li h3,
+#content .event_list h3,
+#content .category_list_view li h3 a,
+#content .event_list h3 a,
+blockquote p,
+blockquote a,
+#content .tab li a,
+#sidebar .widget a:hover,
+#sidebar .widget h3 a:hover,
+#sidebar .bookmark h3,
+#sidebar .recent_comments li a,
+.header_right ul li ul li.hover,
+.header_right ul li ul li:hover,
+.header_right ul li ul li.current-cat:hover,
+ul.dropdown li ul li.current_page_parent:hover,
+ul.dropdown li ul li.current_page_item:hover,
+#comments .comment .text-right p a,
+span.comm-reply,
+span.comm-reply a {
+    color: #333;
+}
+
+/* ==========================================================================
+   Transparent Border
+   ========================================================================== */
+
+#wrapper,
+#content .category_grid_view li a.post_img,
+.tabber .category,
+#content .twocolumns .listingview li a.post_img,
+a.post_img img,
+#recurring_events ul li.even,
+.login_form_l,
+.registration_form_box,
+.flickr img,
+.event_search .row .textfield,
+.event_search .row .select,
+.subscribe .field,
+#sidebar .subscribe .field,
+.google_map,
+#sidebar .recent_comments li .avatar,
+.simplemodal-container .simplemodal-wrap,
+#calendarDiv,
+table.calendar_widget td.date_n div:hover span.popup_event,
+#theImages img,
+#previewPane,
+.small_thumb img,
+.main_img,
+#sidebar #searchform #s,
+.form_row .textarea,
+.form_row .textfield {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* ==========================================================================
+   Old Color
+   ========================================================================== */
+
+#sidebar .featured_video h4 a,
+#sidebar .featured_video,
+#sidebar h3 span.more a,
+#content h3 span.more a,
+.post_left a:hover,
+#content .sort_by li.current a,
+#content .sort_by li a:hover,
+#content .pagination .i_next a:hover,
+#content .pagination .i_previous a:hover,
+#content .category_list_view li span.readmore a:hover,
+#inner_pages h1 {
+    color: #3a739f;
+}
+
+/* ==========================================================================
+   White Background Color
+   ========================================================================== */
+
+.simplemodal-container .simplemodal-wrap,
+#arrow_left,
+#arrow_right,
+#waitMessage {
+    background-color: #fff;
+}
+
+.search_row .textfield:focus,
+.search_row .select,
+.search_row .textfield,
+.property_id_search .textfield,
+#calendarDiv,
+table.calendar_widget td.date_n div:hover span.popup_event,
+table.calendar,
+#comments .comment .text-right p a:hover.comment-reply-link,
+#comments .comment .text-right,
+#comments .comment .authcomment #sidebar #slider2,
+#sidebar .we_recommend_in,
+.event_search .row .textfield,
+.event_search .row .select,
+#sidebar .categories li span,
+#sidebar .advt,
+.main_img,
+#sidebar #searchform #s,
+.sidebar_map,
+#content .jcarousel-skin-pika .jcarousel-item-placeholder,
+#wrapper,
+.breadcrumb_in {
+    background: #fff;
+}
+
+#calendarDiv .monthYearActive,
+#calendarDiv .monthYearPicker,
+#calendarDiv .selectBoxOver,
+table.calendar td.title,
+#top_strip_in ul li ul.sub-menu li a:hover,
+#top_strip_in ul li ul.sub-menu li.current-menu-item a,
+#top_strip_in ul li ul.sub-menu ul.sub-menu li a:hover,
+#top_strip_in ul li ul.children li.current-cat-parent li a,
+#top_strip_in ul li.current-cat ul li a:hover,
+#top_strip_in ul li.current-cat-parent ul li a:hover,
+#top_strip_in ul li ul li a:hover,
+#top_strip_in ul li.current-cat-parent ul li.current-cat ul li a:hover,
+#top_strip_in ul li.current_page_parent ul li.current_page_item a,
+#top_strip_in ul li.current-cat ul li a,
+#top_strip_in ul li.current-cat-parent ul li a,
+#top_strip_in ul li ul li a,
+#top_strip_in li:hover a,
+#top_strip_in ul li a:hover,
+#top_strip_in li:hover a,
+#top_strip_in ul li ul li.hover,
+#top_strip_in ul li ul li:hover,
+#top_strip_in ul li ul li.current-cat:hover,
+ul.dropdown li ul li.current-cat-parent:hover,
+ul.dropdown li ul li.current-cat:hover,
+#main_navi ul li ul.sub-menu li a:hover,
+#main_navi ul li ul.sub-menu li.current-menu-item a,
+#main_navi ul li ul.sub-menu ul.sub-menu li a:hover,
+#main_navi ul li ul.children li.current-cat-parent li a,
+#main_navi ul li.current-cat ul li a:hover,
+#main_navi ul li.current-cat-parent ul li.current-cat a,
+#main_navi ul li.current-cat-parent ul li a:hover,
+#main_navi ul li ul li a:hover,
+#main_navi ul li ul.sub-menu li a,
+#main_navi ul li ul.sub-menu ul.sub-menu li a,
+#main_navi ul li.current-cat-parent ul li.current-cat ul li a:hover,
+#main_navi ul li.current-cat ul li a,
+#main_navi ul li.current_page_parent ul li a,
+#main_navi ul li ul li a,
+#main_navi li:hover ul li a,
+#main_navi ul li a,
+.sub-menu #main_navi ul li ul li.hover,
+#main_navi ul li ul li:hover,
+#main_navi ul li ul li.current-cat:hover,
+ul.dropdown li ul li.current-cat-parent:hover,
+ul.dropdown li ul li.current-cat:hover,
+.header_right ul li.current_page_item ul li a:hover,
+.header_right ul li.current_page_parent ul li.current_page_item a,
+.header_right ul li.current_page_parent ul li a:hover,
+.header_right ul li ul li a:hover,
+.header_right ul li ul.sub-menu li a,
+.header_right ul li ul.sub-menu ul.sub-menu li a,
+.header_right ul li.current_page_parent ul li.current_page_item ul li a:hover,
+.header_right ul li.current_page_item ul li a,
+.header_right ul li.current_page_parent ul li a,
+.header_right ul li ul li a,
+.header_right ul li ul li:last-child a,
+.mega-menu .mega li a,
+.header_right ul li.current_page_item a,
+.header_right ul li.current_page_parent a,
+.header_right ul li.current-menu-item a,
+.header_right li:hover ul li a,
+.header_right li:hover a,
+.header_right ul li a:hover,
+.header_right li:hover a,
+.we_recommend_in .nivo-controlNav a,
+.we_recommend_in .nivo-prevNav:hover,
+.we_recommend_in .nivo-caption,
+a:hover.b_register,
+a.b_register,
+#wp-calendar th,
+#calendar_wrap caption,
+#sidebar .widget h3 a,
+.pagination a:hover,
+.pagination a,
+.pagination .on,
+#sidebar .event_search .calendar_link:hover:before,
+/*#content .twocolumns .widget h3,*/
+
+.h_featured,
+.featured_tag,
+a.b_sbumit,
+.b_review:hover,
+a.b_contact:hover,
+.validate-coupon-code-wrapper .validate_btn:hover,
+.b_delete:hover,
+.b_review,
+a.b_contact,
+.validate-coupon-code-wrapper .validate_btn,
+.b_delete,
+.b_search_event:hover,
+.subscribe_form .btn_submit:hover,
+.login_form_l .b_signin_n:hover,
+.b_signin:hover,
+.b_registernow:hover,
+#sidebar .widget a.b_twitter:hover,
+a.b_getdirection:hover,
+.button:hover,
+input[type="submit"]:hover,
+input#submit:hover,
+#show_recurring span:hover,
+#hide_recurring span:hover,
+.show_rec_ev span:hover,
+#edit_fb_fields:hover,
+#hide_fb_fields:hover,
+.event-submit-page .b_submit:hover,
+.b_cancel:hover,
+.login_form_l .b_signin_n,
+.b_signin,
+.b_registernow,
+.b_search_event,
+.subscribe_form .btn_submit,
+#sidebar .widget a.b_twitter,
+a.b_getdirection,
+.button,
+input[type="submit"],
+input#submit,
+#show_recurring span,
+#hide_recurring span,
+.show_rec_ev span,
+#edit_fb_fields,
+#hide_fb_fields,
+.event-submit-page .b_submit,
+.b_cancel {
+    color: #fff;
+}
+
+/* ==========================================================================
+   Old Dark Blue Color
+   ========================================================================== */
+
+#header_outer,
+#top_strip_in ul li ul li.current-cat-parent a {
+    background: #3a739f;
+}
+
+#top_strip_in ul li ul li.current-cat-parent ul li.current-cat a,
+#top_strip_in ul li ul li.current-cat-parent ul li a,
+#top_strip_in ul li ul li.current-cat ul li ul li a:hover,
+#top_strip_in ul li ul li.current-cat ul li a {
+    background: #3a739f !important;
+}
+
+/* ==========================================================================
+   Secondary Dark Color
+   ========================================================================== */
+
+.header-wrapper {
+    background-color: #142736;
+}
+
+#calendarDiv .monthYearPicker,
+.simplemodal-container a.modalCloseImg,
+.pagination a,
+.login_form_l .b_signin_n,
+.b_signin,
+.b_registernow,
+.b_search_event,
+.subscribe_form .btn_submit,
+#sidebar .widget a.b_twitter,
+a.b_getdirection,
+.button,
+input[type="submit"],
+input#submit,
+#show_recurring span,
+#hide_recurring span,
+.show_rec_ev span,
+#edit_fb_fields,
+#hide_fb_fields,
+.event-submit-page .b_submit,
+.b_cancel {
+    background: #142736;
+}
+
+/* Transparent Background
+   ========================================================================== */
+
+#main_navi ul li ul.sub-menu li a:hover,
+#main_navi ul li ul.sub-menu li.current-menu-item a,
+#main_navi ul li ul.sub-menu ul.sub-menu li a:hover,
+#main_navi ul li ul.children li.current-cat-parent li a {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+/* Transparent Border[Top]
+   ========================================================================== */
+
+#content .event_list p.bottom,
+#content .category_list_view li p.bottom,
+.pagination,
+.pos_navigation {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Transparent Border[Bottom]
+   ========================================================================== */
+
+#content .twocolumns .listingview li,
+.category .posts,
+#sidebar li,
+#main_navi ul li.current-cat ul li a,
+#main_navi ul li.current_page_parent ul li a,
+#main_navi ul li ul li a,
+.arclist ul li,
+table.calendar_widget tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Transparent Border[Left]
+   ========================================================================== */
+
+/* Transparent Border[Right]
+   ========================================================================== */
+
+#content .event_list_featured p.date,
+table.calendar_widget td.date_n {
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
